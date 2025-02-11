@@ -1,2 +1,3 @@
 # g-flight-scraper
-Scrape flight details 
+Scrapes flight details from Google Flights URL
+
